@@ -8,6 +8,12 @@ Authors: Chodziwadziwa W Kabudula, Jean Bashingwa, Jessica Price, Kobus Herbst, 
 Correspondence to: chodziwadziwa.kabudula@wits.ac.za
 
 
+For all cause mortality analysis run the S0_master.do file.
+For cause specif analysis run CoD_master.do file.
+
+Other do files are called from these two do files.
+
+
 
 
 
